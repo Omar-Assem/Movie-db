@@ -1,0 +1,25 @@
+*{  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+  color: red !important;
+}
+
+body {
+  font-family:  sans-serif;
+  text-transform: capitalize;
+  overflow-x: hidden;
+  background: #000;
+}
+.logo img{
+  height: 70px;
+  width: 150px;
+}
+.bg {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+
+
+}
